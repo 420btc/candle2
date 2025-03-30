@@ -19,7 +19,6 @@ import { LinearGradient } from 'expo-linear-gradient';
 import { Ionicons } from '@expo/vector-icons';
 import { FontAwesome5 } from '@expo/vector-icons';
 import { useAuth } from '../context/AuthContext';
-import NetInfo from '@react-native-community/netinfo';
 // Ensure the polyfill is imported
 import 'react-native-get-random-values';
 
